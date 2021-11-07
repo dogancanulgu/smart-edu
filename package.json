@@ -1,0 +1,30 @@
+{
+  "name": "smart-edu",
+  "version": "1.0.0",
+  "description": "Education Portal",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dogancanulgu/smart-edu.git"
+  },
+  "keywords": [
+    "education",
+    "portla",
+    "nodejs"
+  ],
+  "author": "Doğancan Ülgü",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dogancanulgu/smart-edu/issues"
+  },
+  "homepage": "https://github.com/dogancanulgu/smart-edu#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
